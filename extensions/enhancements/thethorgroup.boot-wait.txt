@@ -1,1 +1,1 @@
-http://raw.githubusercontent.com/RedPill-TTG/redpill-boot-wait/master/rpext-index.json
+https://raw.githubusercontent.com/RedPill-TTG/redpill-boot-wait/master/rpext-index.json
